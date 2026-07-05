@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-hezl-ksamplerpreset"
+version = "1.0.0"
+description = "ComfyUI KSampler with preset save/load/delete"
+license = "MIT"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/Hezldeen/Comfyui_Hezl-KSamplerPreset"

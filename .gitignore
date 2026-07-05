@@ -1,0 +1,7 @@
+.vscode/
+.trae/
+__pycache__/
+
+Preset/*
+!Preset/*/
+!Preset/.gitkeep
